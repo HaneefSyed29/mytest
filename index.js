@@ -10,3 +10,5 @@ function greet(){
     console.log("Hello world");
 }
 greet();
+
+console.log("this is testing for stash");
